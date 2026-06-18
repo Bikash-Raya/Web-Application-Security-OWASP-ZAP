@@ -23,11 +23,12 @@
 ---
 
 ## 📁 Repository Structure
-
+ 
 | File | Description |
 | --- | --- |
-| [OWASP_ZAP_Security_Assessment_Report.docx](./OWASP_ZAP_Security_Assessment_Report.docx) | Complete lab report with screenshots and detailed findings |
-| [Webtest-ZAP-Report.html](./Webtest-ZAP-Report.html) | Raw ZAP-generated scan report (all 21 alerts) |
+| [Web-App-Security-Assessment-OWASP-Lab.pdf](./Web-App-Security-Assessment-OWASP-Lab.pdf) | Complete lab report with screenshots and detailed findings |
+| [Webtest-ZAP-Report-.html](./Webtest-ZAP-Report-.html) | Raw ZAP-generated scan report (all 21 alerts) |
+| [Webtest-ZAP-Report-.pdf](./Webtest-ZAP-Report-.pdf) | PDF version of the ZAP-generated scan report |
 | README.md | Project overview |
 
 ---
